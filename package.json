@@ -1,0 +1,24 @@
+{
+  "name": "aulaweb",
+  "version": "1.0.0",
+  "description": "Aula Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuizCaciola/AulaWeb220126.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuizCaciola/AulaWeb220126/issues"
+  },
+  "homepage": "https://github.com/LuizCaciola/AulaWeb220126#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
